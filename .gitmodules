@@ -1,0 +1,9 @@
+[submodule "mlops_mnist"]
+	path = mlops_mnist
+	url = https://github.com/kimjunil/mlops_mnist.git
+[submodule "mlops_mnist_config"]
+	path = mlops_mnist_config
+	url = https://github.com/kimjunil/mlops_mnist_config.git
+[submodule "mlops_mnist_service"]
+	path = mlops_mnist_service
+	url = https://github.com/kimjunil/mlops_mnist_service.git
